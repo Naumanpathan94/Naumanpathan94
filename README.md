@@ -17,4 +17,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naumanpathan94&show_icons=true&locale=en" alt="naumanpathan94" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naumanpathan94&" alt="naumanpathan94" /></p>
+<p><img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=naumanpathan94" alt="naumanpathan94" /></p>
